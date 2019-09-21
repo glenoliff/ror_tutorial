@@ -16,6 +16,8 @@ gem 'bootstrap-sass', '3.4.1'
 
 gem 'bcrypt', '3.1.11'
 
+gem 'byebug'
+
 gem 'rails-controller-testing'
 
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
